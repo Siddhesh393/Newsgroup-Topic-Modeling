@@ -62,10 +62,6 @@ Both LDA and BERT have their strengths in topic modeling. LDA is more traditiona
 
 Clone the repository and install the required packages:
 
-## Installation
-
-Clone the repository and install the required packages:
-
 ```bash
 git clone https://github.com/Siddhesh393/Topic-Modelling-Project.git
 cd Topic-Modelling-Project/lda-bert

@@ -1,4 +1,4 @@
-# Topic Modeling on Newsgroup Dataset using LDA and BERT
+# Topic Modeling on Newsgroup Dataset
 
 ## Project Overview
 

@@ -27,15 +27,16 @@ This project is built on the **20 Newsgroups dataset**, with topics merged into 
 ---
 
 ## 📂 Project Structure
-📦 News_Topic_Classifier
+```text
+News_Topic_Classifier/
 │
-├── app.py # Streamlit web app
-├── best_text_classifier.pkl # Saved trained ML pipeline
-├── label_encoder.pkl # Saved LabelEncoder object
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
+├── app.py                    # Streamlit web app
+├── best_text_classifier.pkl  # Saved trained ML pipeline
+├── label_encoder.pkl         # Saved LabelEncoder object
+├── requirements.txt          # Python dependencies
+├── README.md                 # Project documentation
 └── data/
-└── newsgroups_data.csv # (Optional) Preprocessed dataset
+    └── newsgroups_data.csv   # (Optional) Preprocessed dataset
 
 
 ---
@@ -44,5 +45,5 @@ This project is built on the **20 Newsgroups dataset**, with topics merged into 
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/News_Topic_Classifier.git
-cd News_Topic_Classifier
+git clone https://github.com/Siddhesh393/Newsgroup-Topic-Modeling.git
+cd Newsgroup-Topic-Modeling

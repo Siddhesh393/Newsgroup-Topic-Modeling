@@ -38,8 +38,8 @@ News_Topic_Classifier/
 └── data/
     └── newsgroups_data.csv   # (Optional) Preprocessed dataset
 
+```
 
----
 
 ## ⚙️ Installation
 
@@ -47,3 +47,4 @@ News_Topic_Classifier/
 ```bash
 git clone https://github.com/Siddhesh393/Newsgroup-Topic-Modeling.git
 cd Newsgroup-Topic-Modeling
+```
